@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1663339543 source:d:\backup de cursos\utn\tup\2022\1º segundo cuatrimestre\laboratorio de computacion ii\parciales\parcial 1\tp parcial 1\parcial1tp1parte1\main.cpp
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+	"clsFecha.h"
+	"clsCancion.h"
+	"clsInterprete.h"
+	"funcionesGlobalesCancion.h"
+	"funcionesGlobalesInterprete.h"
+	"opcionesMenu.h"
+
+1663339581 d:\backup de cursos\utn\tup\2022\1º segundo cuatrimestre\laboratorio de computacion ii\parciales\parcial 1\tp parcial 1\parcial1tp1parte1\opcionesmenu.h
+
+1663336625 d:\backup de cursos\utn\tup\2022\1º segundo cuatrimestre\laboratorio de computacion ii\parciales\parcial 1\tp parcial 1\parcial1tp1parte1\funcionesglobales.h
+
+1663336625 d:\backup de cursos\utn\tup\2022\1º segundo cuatrimestre\laboratorio de computacion ii\parciales\parcial 1\tp parcial 1\parcial1tp1parte1\clsfecha.h
+
+1663293694 d:\backup de cursos\utn\tup\2022\1º segundo cuatrimestre\laboratorio de computacion ii\parciales\parcial 1\tp parcial 1\parcial1tp1parte1\clscancion.h
+
+1663338017 d:\backup de cursos\utn\tup\2022\1º segundo cuatrimestre\laboratorio de computacion ii\parciales\parcial 1\tp parcial 1\parcial1tp1parte1\funcionesglobalescancion.h
+
+1663336124 d:\backup de cursos\utn\tup\2022\1º segundo cuatrimestre\laboratorio de computacion ii\parciales\parcial 1\tp parcial 1\parcial1tp1parte1\clsinterprete.h
+
+1663339101 d:\backup de cursos\utn\tup\2022\1º segundo cuatrimestre\laboratorio de computacion ii\parciales\parcial 1\tp parcial 1\parcial1tp1parte1\funcionesglobalesinterprete.h
+
+1663339543 source:c:\users\enzon\desktop\repoprueba\repoprueba\main.cpp
+	<iostream>
+	<cstring>
+	"funcionesGlobales.h"
+	"clsFecha.h"
+	"clsCancion.h"
+	"clsInterprete.h"
+	"funcionesGlobalesCancion.h"
+	"funcionesGlobalesInterprete.h"
+	"opcionesMenu.h"
+
+1663336625 c:\users\enzon\desktop\repoprueba\repoprueba\funcionesglobales.h
+
+1663336625 c:\users\enzon\desktop\repoprueba\repoprueba\clsfecha.h
+
+1663293694 c:\users\enzon\desktop\repoprueba\repoprueba\clscancion.h
+
+1663336124 c:\users\enzon\desktop\repoprueba\repoprueba\clsinterprete.h
+
+1663338017 c:\users\enzon\desktop\repoprueba\repoprueba\funcionesglobalescancion.h
+
+1663339101 c:\users\enzon\desktop\repoprueba\repoprueba\funcionesglobalesinterprete.h
+
+1663340300 c:\users\enzon\desktop\repoprueba\repoprueba\opcionesmenu.h
+
