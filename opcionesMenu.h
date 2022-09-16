@@ -12,6 +12,8 @@ void menuPrincipal();
 // MENU CANCIONES
 void menuCanciones(){
     int opc, valorAgregarCancion;
+    cout << "Modificacion 3" << endl;
+    system("pause");
     while(true){
         system("cls");
         cout << "MENU CANCIONES" << endl;
